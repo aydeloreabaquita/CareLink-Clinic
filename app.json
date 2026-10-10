@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "CareLink Clinic",
+    "slug": "carelink-clinic",
+    "scheme": "carelinkclinic",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "web": { "name": "CareLink Clinic", "bundler": "metro" },
+    "ios": { "supportsTablet": true },
+    "android": { "edgeToEdgeEnabled": true }
+  }
+}
